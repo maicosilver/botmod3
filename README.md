@@ -1,14 +1,8 @@
 
-## Clone this project
-
 ```bash
 > git clone https://github.com/MhankBarBar/termux-wabot
 ```
-
-## Install the dependencies:
-Before running the below command, make sure you're in the project directory that
-you've just cloned!!
-
+ N
 ```bash
 > cd termux-wabot
 > bash install.sh
