@@ -1,7 +1,7 @@
 
 ```bash
-> git clone https://github.com/MhankBarBar/termux-wabot
-> cd termux-wabot
+> git clone https://github.com/maicosilver/botmod3
+> cd botmod3 
 > bash install.sh
 > npm start
 ``` 
@@ -11,7 +11,7 @@
 prefix = / 
 ```
 
-## Features
+## Features 
 
 | Sticker Creator |                Feature           |
 | :-----------: | :--------------------------------: |
