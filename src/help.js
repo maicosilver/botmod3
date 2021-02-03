@@ -50,9 +50,9 @@ command : *${prefix}add*
 desc : adicionar membro ao grupo
 usage : *${prefix}add 55889xxxxxxxx*\n
 note : só pode ser usado quando o bot se torna admin, e quem envia o comando é admin!\n
-command : *${prefix}kick*
+command : *${prefix}ban*
 desc : remover membros do grupo
-usage : *${prefix}kick @tagmember*\n
+usage : *${prefix}ban @tagmember*\n
 note : só pode ser usado quando o bot se torna admin, e quem envia o comando é admin!\n
 command : *${prefix}promote*
 desc : tornar o membro do grupo como administrador do grupo
