@@ -20,9 +20,9 @@ command : *${prefix}memeindo*
 desc : random meme images [indo]
 usage : just send the command\n
 > *Others Commands* <
-command : *${prefix}gtts*
+command : *${prefix}tts*
 desc : converte texto em audio
-usage : *${prefix}gtts [cc] [text]*\nexample : *${prefix}gtts ja On2-chan*\n
+usage : *${prefix}tts [cc] [text]*\nexample : *${prefix}tts ja On2-chan*\n
 command : *${prefix}loli*
 desc : random loli images
 usage : just send the command\n
