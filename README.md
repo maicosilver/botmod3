@@ -1,17 +1,10 @@
 
 ```bash
 > git clone https://github.com/MhankBarBar/termux-wabot
-```
- N
-```bash
 > cd termux-wabot
 > bash install.sh
-```
-
-### Usage
-```bash
 > npm start
-```
+``` 
 
 ### Info
 ```
