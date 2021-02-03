@@ -21,7 +21,7 @@ you've just cloned!!
 
 ### Info
 ```
-prefix = .
+prefix = / 
 ```
 
 ## Features
