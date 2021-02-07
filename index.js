@@ -296,7 +296,7 @@ async function starts() {
 							.toFormat('webp')
 							.save(ran)*/
 					} else {
-						reply(`Kirim gambar dengan caption ${prefix}sticker atau tag gambar yang sudah dikirim`)
+						reply(`Envie fotos com legendas ${prefix}sticker ou marque uma imagem que foi enviada`)
 					}
 					break
 				case 'tts':
