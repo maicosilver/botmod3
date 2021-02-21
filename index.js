@@ -205,10 +205,9 @@ async function starts() {
 						reply('Foto aja mas')
 					}
 					break
-				case 'sticker':
 				case 'gif':
-            case 'stickergif':
-            case 'stikergif':
+                                case 'stickergif':
+                                case 'stikergif':
                 if (!isRegistered) return await bocchi.reply(from, eng.notRegistered(), id)
                 if (isMedia && type === 'video' || mimetype === 'image/gif') {
                     await bocchi.reply(from, eng.wait(), id)
@@ -241,8 +240,8 @@ async function starts() {
                     }
                 } else {
                     await bocchi.reply(from, eng.wrongFormat(), id)
-                }
-            break
+                       }
+                                break
 				case 'tts':
 					if (args.length < 1) return client.sendMessage(from, 'Kode bahasanya mana om?', text, {quoted: mek})
 					const tts = require('./lib/tts')(args[0])
